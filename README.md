@@ -1,6 +1,6 @@
 # SuggestTeX README
 
-This is the README for your extension "SuggestTeX". The SuggestTeX extension is designed to handle calculations of LaTeX-formatted mathematical expressions. Currently, it supports calculations involving the `\SI{}{}` command, with plans for expanding functionality to include more commands in the future.
+This is the README for my extension "SuggestTeX". The SuggestTeX extension is designed to handle calculations of LaTeX-formatted mathematical expressions. Currently, it supports calculations involving the `\SI{}{}` command, with plans for expanding functionality to include more commands in the future.
 
 ## Features
 
@@ -27,4 +27,4 @@ There are currently no known issues. If you encounter any problems while using t
 
 - Initial release supporting the `\SI{}{}` command for LaTeX calculations.
 
-**Enjoy!**
+Thank you for using!
