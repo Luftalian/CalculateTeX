@@ -43,7 +43,7 @@ export function activate(context: vscode.ExtensionContext) {
 					console.log('Expression:', expr);
 
 					const resultText = new vscode.CompletionItem(" " + result, vscode.CompletionItemKind.Method);
-					resultText.documentation = new vscode.MarkdownString(expr);
+					resultText.documentation = expr;
 
 					return [resultText];
 				} catch (error) {
